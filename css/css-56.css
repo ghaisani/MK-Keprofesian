@@ -19,6 +19,8 @@
 body{
   background-color: #007ec1 !important; 
   color: #fff;
+  overflow-x: hidden;
+  overflow-y: hidden;
 }
 
 img {
@@ -40,3 +42,4 @@ img {
   background-color: #555;
   border-radius: 50%;
 }
+
